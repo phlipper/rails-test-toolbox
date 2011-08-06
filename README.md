@@ -5,6 +5,17 @@ This is an opinionated list of helpful testing tools for working with [Ruby on R
 These are all gems that are intended to be used in the `:test` group with [bundler](http://gembundler.com).
 
 
+## Installation
+
+Requires Ruby >= 1.9.2
+
+Install via [RubyGems](http://rubygems.org):
+
+```
+gem install rails-test-toolbox
+```
+
+
 ## Tools
 
 The toolbox currently includes:
@@ -22,6 +33,11 @@ The toolbox currently includes:
 * gem "[rspec-rails](http://github.com/rspec/rspec-rails)", "[~> 2.6.1](http://rubygems.org/gems/rspec-rails)"
 * gem "[shoulda](http://thoughtbot.com/community/)", "[~> 3.0.0.beta2](http://rubygems.org/gems/shoulda)"
 * gem "[shoulda-matchers](http://thoughtbot.com/community/)", "[~> 1.0.0.beta3](http://rubygems.org/gems/shoulda-matchers)"
+
+
+## See Also
+
+If you find this useful, you can also checkout the [rails-development-toolbox](https://github.com/phlipper/rails-development-toolbox) package as well.
 
 
 ## License
