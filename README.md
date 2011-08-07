@@ -27,6 +27,7 @@ The toolbox currently includes:
 * gem "[autotest-fsevent](http://www.bitcetera.com/en/products/autotest-fsevent)", "[~> 0.2.5](http://rubygems.org/gems/autotest-fsevent)"
 * gem "[capybara](http://github.com/jnicklas/capybara)", "[~> 1.0.0](http://rubygems.org/gems/capybara)"
 * gem "[factory_girl_rails](http://github.com/thoughtbot/factory_girl_rails)", "[~> 1.1.0](http://rubygems.org/gems/factory_girl_rails)"
+* gem "[faker](http://faker.rubyforge.org/)", "[~> 0.9.5](http://rubygems.org/gems/faker)"
 * gem "[database_cleaner](http://github.com/bmabey/database_cleaner)", "[~> 0.6.7](http://rubygems.org/gems/database_cleaner)"
 * gem "[rspec](http://github.com/rspec)", "[~> 2.6.0](http://rubygems.org/gems/rspec)"
 * gem "[rspec-core](http://github.com/rspec-core)", "[~> 2.6.4](http://rubygems.org/gems/rspec-core)"

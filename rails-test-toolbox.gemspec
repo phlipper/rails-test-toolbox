@@ -19,6 +19,7 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency "autotest-fsevent",    "~> 0.2.5"
   spec.add_runtime_dependency "capybara",            "~> 1.0.0"
   spec.add_runtime_dependency "factory_girl_rails",  "~> 1.1.0"
+  spec.add_runtime_dependency "faker",               "~> 0.9.5"
   spec.add_runtime_dependency "database_cleaner",    "~> 0.6.7"
   spec.add_runtime_dependency "rspec",               "~> 2.6.0"
   spec.add_runtime_dependency "rspec-core",          "~> 2.6.4"
