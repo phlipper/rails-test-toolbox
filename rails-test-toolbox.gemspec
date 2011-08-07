@@ -1,14 +1,14 @@
 Gem::Specification.new do |spec|
   spec.name        = "rails-test-toolbox"
-  spec.version     = "0.1.0"
-  spec.date        = "2011-08-05"
+  spec.version     = "0.1.1"
+  spec.date        = "2011-08-07"
   spec.summary     = "An opinionated list of helpful testing tools for working with Ruby on Rails."
   spec.description = "An opinionated list of helpful testing tools for working with Ruby on Rails."
   spec.authors     = ["Phil Cohen"]
   spec.email       = "github@phlippers.net"
   spec.files       = ["lib/rails-test-toolbox.rb"]
   spec.homepage    = "https://github.com/phlipper/rails-test-toolbox"
-  spec.license     = "MIT"
+  spec.license     = "BSD"
 
   spec.required_ruby_version = ">= 1.9.2"
 
