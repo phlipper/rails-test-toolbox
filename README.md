@@ -20,20 +20,25 @@ gem install rails-test-toolbox
 
 The toolbox currently includes:
 
-* gem "[metrical](https://github.com/iain/metrical/)", "[~> 0.0.5](http://rubygems.org/gems/metrical)"
+* gem "[metrical](https://github.com/iain/metrical/)", "[~> 0.0.7](http://rubygems.org/gems/metrical)"
 * gem "[fakeweb](http://github.com/chrisk/fakeweb)", "[~> 1.3.0](http://rubygems.org/gems/fakeweb)"
-* gem "[autotest-standalone](http://github.com/grosser/autotest)", "[~> 4.5.5](http://rubygems.org/gems/autotest-standalone)"
-* gem "[autotest-growl](http://www.bitcetera.com/products/autotest-growl)", "[~> 0.2.9](http://rubygems.org/gems/autotest-growl)"
-* gem "[autotest-fsevent](http://www.bitcetera.com/en/products/autotest-fsevent)", "[~> 0.2.5](http://rubygems.org/gems/autotest-fsevent)"
-* gem "[capybara](http://github.com/jnicklas/capybara)", "[~> 1.0.0](http://rubygems.org/gems/capybara)"
-* gem "[factory_girl_rails](http://github.com/thoughtbot/factory_girl_rails)", "[~> 1.1.0](http://rubygems.org/gems/factory_girl_rails)"
+* gem "[capybara](http://github.com/jnicklas/capybara)", "[~> 1.1.1](http://rubygems.org/gems/capybara)"
+* gem "[factory_girl_rails](http://github.com/thoughtbot/factory_girl_rails)", "[~> 1.3.0](http://rubygems.org/gems/factory_girl_rails)"
 * gem "[faker](http://faker.rubyforge.org/)", "[~> 0.9.5](http://rubygems.org/gems/faker)"
 * gem "[database_cleaner](http://github.com/bmabey/database_cleaner)", "[~> 0.6.7](http://rubygems.org/gems/database_cleaner)"
-* gem "[rspec](http://github.com/rspec)", "[~> 2.6.0](http://rubygems.org/gems/rspec)"
-* gem "[rspec-core](http://github.com/rspec-core)", "[~> 2.6.4](http://rubygems.org/gems/rspec-core)"
-* gem "[rspec-rails](http://github.com/rspec/rspec-rails)", "[~> 2.6.1](http://rubygems.org/gems/rspec-rails)"
+* gem "[rspec-rails](http://github.com/rspec/rspec-rails)", "[~> 2.7.0](http://rubygems.org/gems/rspec-rails)"
 * gem "[shoulda](http://thoughtbot.com/community/)", "[~> 3.0.0.beta2](http://rubygems.org/gems/shoulda)"
 * gem "[shoulda-matchers](http://thoughtbot.com/community/)", "[~> 1.0.0.beta3](http://rubygems.org/gems/shoulda-matchers)"
+* gem "[growl](http://github.com/visionmedia/growl)", "[~> 1.0.3](http://rubygems.org/gems/growl)"
+* gem "[rb-fsevent](http://rubygems.org/gems/rb-fsevent)", "[~> 0.9.0.pre3](http://rubygems.org/gems/rb-fsevent)"
+* gem "[spork](http://github.com/timcharper/spork)", "[~> 0.9.0.rc](http://rubygems.org/gems/spork)"
+* gem "[guard-spork](http://rubygems.org/gems/guard-spork)", "[~> 0.3.1](http://rubygems.org/gems/guard-spork)"
+* gem "[guard-rspec](http://rubygems.org/gems/guard-rspec)", "[~> 0.5.1](http://rubygems.org/gems/guard-rspec)"
+* gem "[guard-bundler](http://rubygems.org/gems/guard-bundler)", "[~> 0.1.3](http://rubygems.org/gems/guard-bundler)"
+* gem "[guard-annotate](http://craigjolicoeur.com)", "[~> 0.4.0](http://rubygems.org/gems/guard-annotate)"
+* gem "[guard-rails](https://rubygems.org/gems/guard-rails)", "[~> 0.0.3](http://rubygems.org/gems/guard-rails)"
+* gem "[guard-rails-assets](http://github.com/dnagir/guard-rails-assets)", "[~> 0.1.1](http://rubygems.org/gems/guard-rails-assets)"
+* gem "[guard-shell](http://rubygems.org/gems/guard-shell)", "[~> 0.1.1](http://rubygems.org/gems/guard-shell)"
 
 
 ## See Also
