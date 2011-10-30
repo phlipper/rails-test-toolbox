@@ -1,1 +1,1 @@
-rvm 1.9.2@rails-test-toolbox --create
+rvm use 1.9.3@rails-test-toolbox --create
